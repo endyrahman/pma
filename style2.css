@@ -1,0 +1,68 @@
+#posisi {
+	margin: 250px;
+}
+
+#menu {
+	width: 100%;
+	height: 51px;
+	background-color: #888eee;
+}
+
+#block input[type=text], #block input[type=password]{
+	margin-bottom:8px;
+	height:30px;
+	width: 250px;
+	background: transparent;
+	border:1px #bbbfff solid;
+	padding: 0 1em;
+	color: #fff;
+
+}
+
+#submite input[type=submit]{
+	width:250px;
+	height:30px;
+}
+
+ul {
+	list-style: none;
+	margin-left: 100px;
+}
+
+li {
+	display: inline;
+	margin-left: 30px;
+}
+
+a {
+	color: #aa0000;
+	text-decoration: none;
+}
+
+body {
+	width: 1000px;
+	margin-top: 20px;
+}
+
+#konten {
+	width: 990px;
+	margin-top: 50px;
+}
+
+p {
+	text-align: justify;
+	margin-left: 100px;
+	margin-right: 100px;
+	line-height: 20px;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+h3 {
+	margin-top: 70px;
+	text-align: left;
+	margin-left: 100px;
+}
